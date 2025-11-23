@@ -1,0 +1,29 @@
+timestamp,image_name,predicted_class,confidence,health_status,severity,recommendation,actual_class
+2025-11-23 05:58:04,dataset_apple.jpeg,Apple___Apple_scab,0.9999847412109376,Diseased,Severe,General plant stress. Improve airflow and remove infected parts.,
+2025-11-23 05:59:02,PotatoEarlyBlight1_dataset.jpeg,Potato___Early_blight,0.9999772310256958,Diseased,Severe,Remove infected leaves. Avoid wet foliage.,
+2025-11-23 05:59:31,PotatoEarlyBlight1_dataset.jpeg,Potato___Early_blight,0.9999772310256958,Diseased,Severe,Remove infected leaves. Avoid wet foliage.,
+2025-11-23 07:08:15,apople.jpeg,Apple___healthy,0.9999874830245972,Healthy,Severe,Leaf is healthy. Maintain good care.,
+2025-11-23 07:31:30,apple-cedar.jpeg,"Pepper,_bell___Bacterial_spot",0.516206681728363,Diseased,Mild,Avoid overhead watering. Improve drainage.,
+2025-11-23 07:31:38,corn_maize_1.jpeg,Corn_(maize)___Northern_Leaf_Blight,0.8807933330535889,Diseased,Severe,Remove infected leaves. Avoid wet foliage.,
+2025-11-23 07:32:04,tomato_blight_new.jpeg,Tomato___Late_blight,0.9999747276306152,Diseased,Severe,Remove infected leaves. Avoid wet foliage.,
+2025-11-23 07:32:18,grape_img.jpeg,Tomato___Early_blight,0.8283392190933228,Diseased,Moderate,Remove infected leaves. Avoid wet foliage.,
+2025-11-23 07:32:35,strawberry_scrotch.jpeg,Strawberry___Leaf_scorch,0.9954374432563782,Diseased,Severe,General plant stress. Improve airflow and remove infected parts.,
+2025-11-23 07:43:06,AppleCedarRust3_dataset.jpeg,Apple___Apple_scab,0.6890010833740234,Diseased,Mild,General plant stress. Improve airflow and remove infected parts.,
+2025-11-23 07:43:12,AppleCedarRust3_dataset.jpeg,Apple___Apple_scab,0.6890010833740234,Diseased,Mild,General plant stress. Improve airflow and remove infected parts.,Apple___Apple_scab
+2025-11-23 07:43:19,AppleCedarRust3_dataset.jpeg,Apple___Apple_scab,0.6890010833740234,Diseased,Mild,General plant stress. Improve airflow and remove infected parts.,Blueberry___healthy
+2025-11-23 07:43:25,AppleCedarRust3_dataset.jpeg,Apple___Apple_scab,0.6890010833740234,Diseased,Mild,General plant stress. Improve airflow and remove infected parts.,Cherry___Powdery_mildew
+2025-11-23 07:43:56,PotatoEarlyBlight1_dataset.jpeg,Potato___Early_blight,0.9999772310256958,Diseased,Severe,Remove infected leaves. Avoid wet foliage.,Cherry___Powdery_mildew
+2025-11-23 07:44:11,PotatoEarlyBlight1_dataset.jpeg,Potato___Early_blight,0.9999772310256958,Diseased,Severe,Remove infected leaves. Avoid wet foliage.,Potato___Early_blight
+2025-11-23 07:44:19,PotatoEarlyBlight1_dataset.jpeg,Potato___Early_blight,0.9999772310256958,Diseased,Severe,Remove infected leaves. Avoid wet foliage.,
+2025-11-23 07:44:30,PotatoEarlyBlight1_dataset.jpeg,Potato___Early_blight,0.9999772310256958,Diseased,Severe,Remove infected leaves. Avoid wet foliage.,Apple___Apple_scab
+2025-11-23 07:44:39,tomato_ds.jpeg,Tomato___Late_blight,0.9829716086387634,Diseased,Severe,Remove infected leaves. Avoid wet foliage.,Apple___Apple_scab
+2025-11-23 07:44:51,tomato_ds.jpeg,Tomato___Late_blight,0.9829716086387634,Diseased,Severe,Remove infected leaves. Avoid wet foliage.,Tomato___Late_blight
+2025-11-23 07:45:05,bell_pepper.jpeg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.2657674551010132,Diseased,Uncertain,Avoid overhead watering. Improve drainage.,Tomato___Late_blight
+2025-11-23 07:45:56,bell-ds.jpeg,"Pepper,_bell___Bacterial_spot",0.9953985810279846,Diseased,Severe,Avoid overhead watering. Improve drainage.,Tomato___Late_blight
+2025-11-23 07:48:56,bell-ds.jpeg,"Pepper,_bell___Bacterial_spot",0.9953985810279846,Diseased,Severe,Avoid overhead watering. Improve drainage.,Tomato___Target_Spot
+2025-11-23 07:49:11,bell-ds.jpeg,"Pepper,_bell___Bacterial_spot",0.9953985810279846,Diseased,Severe,Avoid overhead watering. Improve drainage.,"Pepper,_bell___Bacterial_spot"
+2025-11-23 07:49:32,bell-ds.jpeg,"Pepper,_bell___Bacterial_spot",0.9953985810279846,Diseased,Severe,Avoid overhead watering. Improve drainage.,Apple___Black_rot
+2025-11-23 07:50:34,bell-ds.jpeg,"Pepper,_bell___Bacterial_spot",0.9953985810279846,Diseased,Severe,Avoid overhead watering. Improve drainage.,Apple___Black_rot
+2025-11-23 07:50:36,bell-ds.jpeg,"Pepper,_bell___Bacterial_spot",0.9953985810279846,Diseased,Severe,Avoid overhead watering. Improve drainage.,Apple___Black_rot
+2025-11-23 07:51:03,bell-ds.jpeg,"Pepper,_bell___Bacterial_spot",0.9953985810279846,Diseased,Severe,Avoid overhead watering. Improve drainage.,Peach___Bacterial_spot
+2025-11-23 07:51:19,bell-ds.jpeg,"Pepper,_bell___Bacterial_spot",0.9953985810279846,Diseased,Severe,Avoid overhead watering. Improve drainage.,"Pepper,_bell___Bacterial_spot"
