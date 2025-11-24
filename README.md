@@ -84,9 +84,13 @@ This model uses:
 ## 🖼 Model Features
 
 ✔ Fast and lightweight
+
 ✔ Good for mobile & web apps
+
 ✔ Real-time detection
+
 ✔ Robust performance on unseen images
+
 ✔ Trained on augmented data
 
 
